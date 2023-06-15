@@ -1,0 +1,34 @@
+{
+	"fileType": "encounter",
+	"siteVersion": "1.181.4",
+	"items": [
+		{
+			"h": "swarm%20of%20wasps_mm",
+			"c": 3
+		},
+		{
+			"h": "giant%20wasp_mm",
+			"c": 2
+		}
+	],
+	"sources": [
+		"MM"
+	],
+	"saveId": "dc65460a-b6af-424d-9c12-5d434effb2fc",
+	"playersSimple": [
+		{
+			"count": 2,
+			"level": 6
+		}
+	],
+	"isAdvanced": false,
+	"colsExtraAdvanced": [],
+	"playersAdvanced": [
+		{
+			"name": "",
+			"level": 1,
+			"extras": [],
+			"extraCols": []
+		}
+	]
+}
