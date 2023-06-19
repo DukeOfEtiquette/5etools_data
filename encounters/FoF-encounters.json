@@ -1,0 +1,788 @@
+{
+	"fileType": "bestiary-sublist-saves",
+	"siteVersion": "1.181.7",
+	"saves": [
+		{
+			"id": "9cf5391a-dd65-4090-9a14-a09236cab92a",
+			"entity": {
+				"name": null,
+				"saveId": "4f29f93e-cbe2-48a8-8e03-18f9cbadf2f8",
+				"manager_isSaved": false,
+				"manager_loader_isExpanded": false
+			}
+		},
+		{
+			"id": "1385b1a7-eb47-452e-88ca-48d615eb1ed4",
+			"entity": {
+				"name": "Bandit Ambush",
+				"saveId": "71f6723a-4b10-4462-906f-c328013db837",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "bugbear_mm",
+						"c": 1
+					},
+					{
+						"h": "wolf_mm",
+						"c": 2
+					},
+					{
+						"h": "bandit%20captain_mm",
+						"c": 1
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "dd20d5f9-a983-41be-a14d-968cdfdc6300",
+			"entity": {
+				"name": "Battle Royale",
+				"saveId": "d0d3205e-b6c8-45b4-86ee-b2eb5ba03a44",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "mage_mm",
+						"c": 1
+					},
+					{
+						"h": "veteran_mm",
+						"c": 1
+					},
+					{
+						"h": "priest_mm",
+						"c": 1
+					},
+					{
+						"h": "scout_mm",
+						"c": 1
+					},
+					{
+						"h": "gladiator_mm",
+						"c": 1
+					},
+					{
+						"h": "knight_mm",
+						"c": 1
+					},
+					{
+						"h": "berserker_mm",
+						"c": 1
+					},
+					{
+						"h": "thug_mm",
+						"c": 1
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "0a3309ee-57ac-4693-afb6-5f3fd3d63754",
+			"entity": {
+				"name": "BEES",
+				"saveId": "688c43aa-75f0-4a9a-bef0-ca3789dd0a93",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "swarm%20of%20wasps_mm",
+						"c": 3
+					},
+					{
+						"h": "giant%20wasp_mm",
+						"c": 2
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "44aaa461-09e8-44e7-a5f7-aeb784626cb7",
+			"entity": {
+				"name": "Black Dragon and Kobold followers",
+				"saveId": "3cb46571-7025-4f77-84ad-2951fb7fa661",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "black%20dragon%20wyrmling_mm",
+						"c": 1
+					},
+					{
+						"h": "kobold%20scale%20sorcerer_mpmm",
+						"c": 1
+					},
+					{
+						"h": "kobold_mm",
+						"c": 1
+					}
+				],
+				"sources": [
+					"MM",
+					"MPMM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "ccccfcf7-90dc-4a3a-878e-2aa62c65c7b2",
+			"entity": {
+				"name": "Centaur Couple",
+				"saveId": "0d98fb0a-15ed-4054-8c6e-c840e54aeed6",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "centaur_mm",
+						"c": 2
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "c2c54e03-070a-4821-8ac3-78298e66b5e2",
+			"entity": {
+				"name": "Gnoll patrol party",
+				"saveId": "f6ef5a79-e142-4a36-947a-5e31a21def5f",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "gnoll_mm",
+						"c": 3
+					},
+					{
+						"h": "hyena_mm",
+						"c": 4
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "fdcd2afd-8e08-492e-b135-07d3e2c90bcc",
+			"entity": {
+				"name": "Gnoll war party",
+				"saveId": "ff2e5407-4cce-4ecc-a7f1-e23de5744777",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "hyena_mm",
+						"c": 1
+					},
+					{
+						"h": "gnoll_mm",
+						"c": 1
+					},
+					{
+						"h": "giant%20hyena_mm",
+						"c": 1
+					},
+					{
+						"h": "gnoll%20pack%20lord_mm",
+						"c": 1
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "7751bff3-dd93-4f62-a06c-8859339ddda5",
+			"entity": {
+				"name": "Goblin Encampment",
+				"saveId": "e5512701-09c7-4e42-9cdd-427bee806640",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "goblin_mm",
+						"c": 6
+					},
+					{
+						"h": "bugbear_mm",
+						"c": 1
+					},
+					{
+						"h": "goblin%20boss_mm",
+						"c": 2
+					},
+					{
+						"h": "hobgoblin%20captain_mm",
+						"c": 1
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "6f84429a-8138-4ba7-8d51-569458360ede",
+			"entity": {
+				"name": "Jackalwere #1",
+				"saveId": "afdb88a8-ba0d-451f-863a-d6843f0bb29a",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "jackalwere_mm",
+						"c": 1
+					},
+					{
+						"h": "jackal_mm",
+						"c": 8
+					},
+					{
+						"h": "giant%20wolf%20spider_mm",
+						"c": 2
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "3c849534-2612-4acd-b59b-bea1381900b1",
+			"entity": {
+				"name": "Jackalweres and Wereravens, oh my!",
+				"saveId": "c3f0e310-57f4-4709-aaf1-182b3c746832",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "jackalwere_mm",
+						"c": 2
+					},
+					{
+						"h": "wereraven_vrgr",
+						"c": 2
+					}
+				],
+				"sources": [
+					"MM",
+					"VRGR"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "1d4d1c2c-6971-4486-8604-bab289b869da",
+			"entity": {
+				"name": "Orc and Giant pal",
+				"saveId": "be6a5a63-d289-4a69-844a-76a8ca19ee69",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "orc_mm",
+						"c": 1
+					},
+					{
+						"h": "hill%20giant_mm",
+						"c": 1
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "6f709480-774e-4158-af96-219fc1184c15",
+			"entity": {
+				"name": "Orc, Ogre, Spider",
+				"saveId": "7b69f1a0-468a-4edd-b7c9-2e767b997387",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "orc_mm",
+						"c": 1
+					},
+					{
+						"h": "ogre_mm",
+						"c": 1
+					},
+					{
+						"h": "giant%20spider_mm",
+						"c": 1
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "a754c2f5-79b5-43c3-ba16-36c05cd13365",
+			"entity": {
+				"name": "Orog and Goblin pals",
+				"saveId": "83c2f359-12f5-43d3-96f2-1b4a3ac10707",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "orog_mm",
+						"c": 1
+					},
+					{
+						"h": "goblin_mm",
+						"c": 6
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "a6308132-1416-4e0b-aecd-d3ec4ff94a45",
+			"entity": {
+				"name": "Owlbear mates",
+				"saveId": "96619f47-bf12-43bc-8c33-8198727e8b06",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "owlbear_mm",
+						"c": 2
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "84d63aac-a7e9-4a69-b96c-5b33420000dc",
+			"entity": {
+				"name": "Pack of Werebeasts (rats, medium)",
+				"saveId": "9adbcdd5-ffe4-418b-b189-8349541e7a38",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "wererat_mm",
+						"c": 1
+					},
+					{
+						"h": "giant%20rat_mm",
+						"c": 2
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "955d3206-bd87-4816-b146-eb560eeab392",
+			"entity": {
+				"name": "Pack of Werebeasts (wolf, medium)",
+				"saveId": "6dd26c50-7ae8-4cc6-b9b1-1370ca90f6a5",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "werewolf_mm",
+						"c": 1
+					},
+					{
+						"h": "wolf_mm",
+						"c": 1
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "3db600c0-3ad0-4397-bdcd-4c155228b68b",
+			"entity": {
+				"name": "Roaming Green Dragon Wyrmling",
+				"saveId": "d7fe04de-c420-4d27-92ee-b42feec85e8d",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "green%20dragon%20wyrmling_mm",
+						"c": 1
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "b5ffe623-4219-432d-8956-d658ae247926",
+			"entity": {
+				"name": "Vegepygmy Patrol",
+				"saveId": "acd9215e-d869-45b0-8908-f08bb228040c",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "vegepygmy%20chief_mpmm",
+						"c": 1
+					},
+					{
+						"h": "thorny%20vegepygmy_mpmm",
+						"c": 1
+					},
+					{
+						"h": "vegepygmy_mpmm",
+						"c": 4
+					}
+				],
+				"sources": [
+					"MPMM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		},
+		{
+			"id": "ec65f1e4-a3d0-4802-bf2e-a8a5d80e8657",
+			"entity": {
+				"name": "Werebat and Wereraven",
+				"saveId": "db7b3b56-55cf-41ea-b194-bb1ae9bbdbed",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "wereraven_vrgr",
+						"c": 1
+					},
+					{
+						"h": "werebat_wdmm",
+						"c": 1
+					}
+				],
+				"sources": [
+					"VRGR",
+					"WDMM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 6
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		}
+	]
+}
