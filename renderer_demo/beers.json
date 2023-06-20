@@ -1,0 +1,47 @@
+[
+    {
+        "type": "section",
+        "name": "Fireforge Amber",
+        "entries": [
+            "A bold and robust brew, with a fiery hue that hints at its smoky caramel, toasted malt flavors, and fireforge finish (spicy!).",
+            {
+                "type": "inset",
+                "name": "Goblin's Grin Brewery",
+                "entries": [
+                    "{@i Dare to embrace the Goblin's Grin}"
+                ]
+            }
+        ],
+        "__prop": "data"
+    },
+    {
+        "type": "section",
+        "name": "Sneaky Shadow Stout",
+        "entries": [
+            "A velvety dark brew that will sneak up on you if you are not careful. Its rich flavors of roasted coffee and dark chocolate intrigue the palate and always leaves you wanting more.",
+            {
+                "type": "inset",
+                "name": "Goblin's Grin Brewery",
+                "entries": [
+                    "{@i Dare to embrace the Goblin's Grin}"
+                ]
+            }
+        ],
+        "__prop": "data"
+    },
+    {
+        "type": "section",
+        "name": "Bogbrew Lager",
+        "entries": [
+            "Bogbrew Lager is a crisp and refreshing brew with a hint of earthy sweetness, reminiscent of a walk through a mystical swamp.",
+            {
+                "type": "inset",
+                "name": "Goblin's Grin Brewery",
+                "entries": [
+                    "{@i Dare to embrace the Goblin's Grin}"
+                ]
+            }
+        ],
+        "__prop": "data"
+    }
+]

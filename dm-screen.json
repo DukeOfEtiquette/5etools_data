@@ -1,0 +1,426 @@
+{
+	"fileType": "dm-screen",
+	"siteVersion": "1.181.7",
+	"w": 3,
+	"h": 3,
+	"ctc": false,
+	"fs": false,
+	"lk": false,
+	"ps": [
+		{
+			"x": 2,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-quick",
+				"c": 2,
+				"h": "Conditions"
+			}
+		},
+		{
+			"x": 2,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-quick",
+				"c": 3,
+				"h": "Actions in Combat"
+			}
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 8,
+			"s": {
+				"state": {
+					"time": 125850261600000,
+					"browseTime": null,
+					"isBrowseMode": false,
+					"hoursPerDay": 24,
+					"minutesPerHour": 60,
+					"secondsPerMinute": 60,
+					"hoursPerLongRest": 8,
+					"minutesPerShortRest": 60,
+					"secondsPerRound": 6,
+					"offsetYears": 0,
+					"offsetMonthStartDay": 0,
+					"days": [
+						{
+							"id": "5180a121-6ee6-42c9-86d0-d42b20804dcb",
+							"data": {
+								"name": "Oneday"
+							}
+						},
+						{
+							"id": "24acefd9-d8be-4559-9a38-cc314517ae38",
+							"data": {
+								"name": "Twoday"
+							}
+						},
+						{
+							"id": "7bbaf074-bad1-4eff-a8b2-b1b3b2be4104",
+							"data": {
+								"name": "Threeday"
+							}
+						},
+						{
+							"id": "6dd1335b-fd79-4fea-99ff-3709c19b82ed",
+							"data": {
+								"name": "Fourday"
+							}
+						},
+						{
+							"id": "8f0a572c-76f2-43fb-af45-ca2d510ba8aa",
+							"data": {
+								"name": "Fiveday"
+							}
+						}
+					],
+					"months": [
+						{
+							"id": "f7afb73d-58e8-4b04-baec-aa785bdb8206",
+							"data": {
+								"name": "Bear",
+								"days": 50
+							}
+						},
+						{
+							"id": "b9079cae-5c88-4368-9c6b-bbe0c9c4237c",
+							"data": {
+								"name": "Lion",
+								"days": 50
+							}
+						},
+						{
+							"id": "313a3f4f-2141-4764-8ae9-1356b06f2f1c",
+							"data": {
+								"name": "Phoenix",
+								"days": 50
+							}
+						},
+						{
+							"id": "ffbe8940-47e3-42f1-b530-e5ab776eac79",
+							"data": {
+								"name": "Manticure",
+								"days": 50
+							}
+						},
+						{
+							"id": "213df9d3-7a60-440f-88df-213bb1c60dc7",
+							"data": {
+								"name": "Sphinx",
+								"days": 50
+							}
+						},
+						{
+							"id": "eb5d1d17-8473-4a5a-8698-f94754f449f7",
+							"data": {
+								"name": "Hydra",
+								"days": 50
+							}
+						},
+						{
+							"id": "e8fbd5f2-1469-41ee-b097-7d4fba7f8505",
+							"data": {
+								"name": "Eagle",
+								"days": 50
+							}
+						},
+						{
+							"id": "c68f8d09-a18d-44b7-bac8-0169a419afeb",
+							"data": {
+								"name": "Shark",
+								"days": 50
+							}
+						}
+					],
+					"events": {},
+					"encounters": {},
+					"seasons": [
+						{
+							"id": "1443588f-fb69-44e9-b2bf-51fde4fc184a",
+							"data": {
+								"name": "Winter",
+								"startDay": 0,
+								"endDay": 49,
+								"sunriseHour": 9,
+								"sunsetHour": 14
+							}
+						},
+						{
+							"id": "1f909d4b-5508-4237-94d9-babcccbc8027",
+							"data": {
+								"name": "Spring",
+								"startDay": 50,
+								"endDay": 99,
+								"sunriseHour": 8,
+								"sunsetHour": 19
+							}
+						},
+						{
+							"id": "39f22340-09d6-4253-b9d3-54f48b54eabe",
+							"data": {
+								"name": "Summer",
+								"startDay": 100,
+								"endDay": 299,
+								"sunriseHour": 6,
+								"sunsetHour": 22
+							}
+						},
+						{
+							"id": "62463461-795b-487a-97fd-77a0d47b71d6",
+							"data": {
+								"name": "Fall",
+								"startDay": 300,
+								"endDay": 399,
+								"sunriseHour": 7,
+								"sunsetHour": 18
+							}
+						}
+					],
+					"years": [],
+					"eras": [],
+					"moons": [
+						{
+							"id": "97b86b8e-76ba-423c-ab63-e8d6311a32ab",
+							"data": {
+								"name": "Moon 1",
+								"color": "#ffffff",
+								"phaseOffset": 18,
+								"period": 20
+							}
+						}
+					],
+					"tab": 0,
+					"isPaused": true,
+					"isAutoPaused": false,
+					"hasCalendarLabelsColumns": true,
+					"hasCalendarLabelsRows": false,
+					"unitsWindSpeed": "mph",
+					"isClockSectionHidden": false,
+					"isCalendarSectionHidden": false,
+					"isMechanicsSectionHidden": false,
+					"isOffsetsSectionHidden": false,
+					"isDaysSectionHidden": false,
+					"isMonthsSectionHidden": false,
+					"isSeasonsSectionHidden": false,
+					"isYearsSectionHidden": true,
+					"isErasSectionHidden": true,
+					"isMoonsSectionHidden": false
+				},
+				"compClockState": {
+					"state": {},
+					"compWeatherState": {
+						"state": {
+							"temperature": "hot",
+							"precipitation": "sunny",
+							"windDirection": 349,
+							"windSpeed": "breeze-light"
+						}
+					}
+				},
+				"compCalendarState": {
+					"state": {}
+				},
+				"compSettingsState": {
+					"state": {}
+				}
+			}
+		},
+		{
+			"x": 1,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-quick",
+				"c": 2,
+				"h": "Falling"
+			}
+		},
+		{
+			"x": 1,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-quick",
+				"c": 4,
+				"h": "Jumping"
+			}
+		},
+		{
+			"x": 0,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 6,
+			"s": {
+				"c": 0,
+				"d": 0,
+				"i": ""
+			}
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-quick",
+				"c": 2,
+				"h": "Ability Checks"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-quick",
+				"c": 4,
+				"h": "Difficult Terrain"
+			}
+		},
+		{
+			"x": 0,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		}
+	],
+	"ex": [
+		{
+			"x": 0,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-dmscreen",
+				"c": 0,
+				"h": "Poisons"
+			}
+		},
+		{
+			"x": 0,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-dmscreen",
+				"c": 1,
+				"h": "Chases"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-dmscreen",
+				"c": 1,
+				"h": "Cover"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-dmscreen",
+				"c": 1,
+				"h": "Handling Mobs"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-dmscreen",
+				"c": 1,
+				"h": "Optional Rule: Diagonals"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-dmscreen",
+				"c": 1,
+				"h": "Optional Rule: Flanking"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-quick",
+				"c": 2,
+				"h": "Sleep"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-quick",
+				"c": 1,
+				"h": "Starting Equipment"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 4,
+			"c": {
+				"b": "bookref-quick",
+				"c": 2,
+				"h": "Resting"
+			}
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 6,
+			"s": {
+				"c": 0,
+				"d": 0,
+				"i": "15"
+			}
+		}
+	]
+}

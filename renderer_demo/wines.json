@@ -1,0 +1,47 @@
+[
+    {
+        "type": "section",
+        "name": "Honeywine",
+        "entries": [
+            "Golden nectar with the essence of wildflowers and a touch of honey, Honeywine is a sensory delight, capturing the sweetness of summer.",
+            {
+                "type": "inset",
+                "name": "Moonstone Vineyard",
+                "entries": [
+                    "{@i Capturing moonlit essence in every bottle}"
+                ]
+            }
+        ],
+        "__prop": "data"
+    },
+    {
+        "type": "section",
+        "name": "Dawnrim Rosé",
+        "entries": [
+            "A delicate and enchanting rosé, DawnrimRosé is a wine that awakens the senses with its ethereal beauty.",
+            {
+                "type": "inset",
+                "name": "Moonstone Vineyard",
+                "entries": [
+                    "{@i Capturing moonlit essence in every bottle}"
+                ]
+            }
+        ],
+        "__prop": "data"
+    },
+    {
+        "type": "section",
+        "name": "Wintermead",
+        "entries": [
+            "A warming elixir that captures the essence of winter, Wintermead delights with its rich flavors of spiced fruits and honey.",
+            {
+                "type": "inset",
+                "name": "Moonstone Vineyard",
+                "entries": [
+                    "{@i Capturing moonlit essence in every bottle}"
+                ]
+            }
+        ],
+        "__prop": "data"
+    }
+]
