@@ -5,14 +5,14 @@
 		{
 			"id": "2cb3b8bd-344a-4f6d-a89c-5595541509ec",
 			"entity": {
-				"name": "Goblin Ambush!",
+				"name": "Goblin Ambush! + Cragmaw Hideout",
 				"saveId": "8d3d2f64-8820-497c-bb03-ac13dccd7b2b",
 				"manager_isSaved": true,
 				"manager_loader_isExpanded": false,
 				"items": [
 					{
 						"h": "goblin_mm",
-						"c": 4
+						"c": 1
 					}
 				],
 				"sources": [
