@@ -1,0 +1,44 @@
+{
+	"fileType": "bestiary-sublist-saves",
+	"siteVersion": "1.196.0",
+	"saves": [
+		{
+			"id": "2cb3b8bd-344a-4f6d-a89c-5595541509ec",
+			"entity": {
+				"name": "Goblin Ambush!",
+				"saveId": "8d3d2f64-8820-497c-bb03-ac13dccd7b2b",
+				"manager_isSaved": true,
+				"manager_loader_isExpanded": false,
+				"items": [
+					{
+						"h": "goblin_mm",
+						"c": 4
+					}
+				],
+				"sources": [
+					"MM"
+				],
+				"playersSimple": [
+					{
+						"count": 2,
+						"level": 2
+					},
+					{
+						"count": 2,
+						"level": 1
+					}
+				],
+				"isAdvanced": false,
+				"colsExtraAdvanced": [],
+				"playersAdvanced": [
+					{
+						"name": "",
+						"level": 1,
+						"extras": [],
+						"extraCols": []
+					}
+				]
+			}
+		}
+	]
+}
